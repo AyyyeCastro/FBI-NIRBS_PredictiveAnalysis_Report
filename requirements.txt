@@ -1,0 +1,9 @@
+pandas
+NumPy
+Matplotlib
+statsmodels
+scikit-learn
+seaborn
+openpyxl
+xlrd
+prophet
