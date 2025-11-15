@@ -33,7 +33,7 @@ PNG copies and a downloadable PDF are included in this repo.
 ![Dashboard](REPORT-MATERIALS/powerBI_dashboard/PNG/powerBI_dashboard_toPNG-2.png)
 ## Forecasted [Total] Offenses VS FBI NIBRS Reported Data
 ![Dashboard](REPORT-MATERIALS/powerBI_dashboard/PNG/powerBI_dashboard_toPNG-1.png)
-## Linear VS Autoregressive MAE [Total] & FBI NIBRs Reported Data
+## Linear VS Autoregressive MAE [Total] & FBI NIBRS Reported Data
 ![Dashboard](REPORT-MATERIALS/powerBI_dashboard/PNG/powerBI_dashboard_toPNG-3.png)
-## Linear VS Autoregressive MAE [Homicide] & FBI NIBRs Reported Data
+## Linear VS Autoregressive MAE [Homicide] & FBI NIBRS Reported Data
 ![Dashboard](REPORT-MATERIALS/powerBI_dashboard/PNG/powerBI_dashboard_toPNG-4.png)
