@@ -40,6 +40,6 @@ This means that despite the 8.02 accuracy gap between the two models, the Linear
 
 ![Dashboard](REPORT-MATERIALS/powerBI_dashboard/PNG/powerBI_dashboard_toPNG-3.png)
 ## Linear VS Autoregressive MAE & Accuracy [Homicide] 
-As previously outlined, despite the 9.18 percentage point difference, the error rate of each model is a layer which must be considered. With the Linear Regression mMdel producing approximately 65.76% more errors in forecasting capability for the 'Homicide Offenses' dataset, than the Autoregression Model. That is the error magnatitude value of 65.76% displayed.
+As previously outlined, despite the 9.18 percentage point difference, the error rate of each model is a layer which must be considered. With the Linear Regression mMdel producing approximately 31.82% more errors in forecasting capability for the 'Homicide Offenses' dataset, than the Autoregression Model. That is the error magnatitude value of 31.82% displayed.
 
 ![Dashboard](REPORT-MATERIALS/powerBI_dashboard/PNG/powerBI_dashboard_toPNG-4.png)
